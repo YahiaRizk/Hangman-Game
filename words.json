@@ -1,0 +1,63 @@
+{
+  "movies": [
+    "Avatar",
+    "Titanic",
+    "Logan",
+    "The Godfather",
+    "Inception",
+    "Seven",
+    "Interstellar",
+    "Parasite",
+    "Gladiator",
+    "The Prestige",
+    "Oppenheimer",
+    "Memento",
+    "Heat",
+    "Dangal"
+  ],
+  "people": [
+    "Nelson Mandela",
+    "Albert Einstein",
+    "Mahatma Gandhi",
+    "Thomas Edison",
+    "Pele",
+    "Angelina Jolie",
+    "Bill Gates ",
+    "Muhammad Ali",
+    "George Clooney",
+    "Brad Pitt",
+    "Mohammed Salah",
+    "Johnny Depp",
+    "Jim Carrey"
+  ],
+  "countries": [
+    "Egypt",
+    "Bahrain",
+    "Iraq",
+    "Lebanon",
+    "Qatar",
+    "Saudi",
+    "Syria",
+    "Palestine",
+    "Algeria",
+    "Morocco",
+    "Tunisia",
+    "Libya",
+    "Kuwait"
+  ],
+  "sports": [
+    "Football",
+    "Baseball",
+    "Basketball",
+    "Bowling",
+    "Boxing",
+    "Chess",
+    "Diving",
+    "Golf",
+    "Hockey",
+    "Handball",
+    "Karate",
+    "Parachuting",
+    "Rugby"
+  ]
+}
